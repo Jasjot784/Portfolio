@@ -1,6 +1,6 @@
 # Portfolio
 
-Please find my portfolio as 2022eet2105_it.pdf
+Please find my portfolio as 2022EET2105_it.pdf
  
 # LinkedIn: https://www.linkedin.com/in/jasjot784/
 # Leetcode: https://leetcode.com/Jasjot784/
